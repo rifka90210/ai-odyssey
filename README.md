@@ -36,4 +36,3 @@ La bibliographie complète est disponible à la fin du document.
 ## Auteur
 
 **Rifka Bastoini**  
-La Plateforme
